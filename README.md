@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supreme Bhandari</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/3e/2b/f43e2b2e7dcb3e0d8dfbdff6f445ace1.gif" width="200" height="350">
+<img align="right" alt="Coding" src="Resource/gif.gif" widht = "250 height = "250">
 
 
 <h3 align="left">Connect with me:</h3>
