@@ -9,7 +9,7 @@
 </p>
 <h3 align="left">CV:</h3>
 <p align="left">
-  <a href="https://drive.google.com/drive/folders/1dUj5qX9rl2ZiSLKEmRCkoOS1VQgvqnUE?usp=sharing" target="_blank">Link to my CV</a>
+  <a href="https://drive.google.com/file/d/17kNuUuohxaX48cpv-LPnZbH15A_lo6nF/view?usp=sharing" target="_blank">Link to my CV</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
