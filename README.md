@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supreme Bhandari</h1>
+<h1 align="center">Hi, I'm Supreme Bhandari</h1>
 <img align="right" alt="Coding" src="Resource/gif.gif" widht = "250 height = "250">
 
 
